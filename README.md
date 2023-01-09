@@ -4,8 +4,6 @@
 
 中文 | [English](README.en.md)
 
-[![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE) [![Release](https://img.shields.io/github/release/memochou1993/gpt-ai-assistant)](https://GitHub.com/memochou1993/gpt-ai-assistant/releases/)
-
 </div>
 
 ## 介紹
@@ -18,10 +16,6 @@ GPT AI Assistant 是基於 OpenAI API 與 LINE Messaging API 實作的應用程�
   <img src="demo/screenshot-zh-1.png" width="300"/>
   <img src="demo/screenshot-zh-2.png" width="300"/>
 </div>
-
-## 影片教學
-
-- 「[如何創建類似 ChatGPT 的 Line Bot 聊天機器人！](https://www.youtube.com/watch?v=uHsCou1AfEU)」by [程式猿](https://www.youtube.com/watch?v=uHsCou1AfEU)
 
 ## 安裝步驟
 
@@ -276,21 +270,3 @@ LINE_CHANNEL_SECRET=<your_line_channel_secret>
 docker-compose up -d
 ```
 
-## 更新日誌
-
-請到「[Releases](https://github.com/memochou1993/gpt-ai-assistant/releases)」頁面查看發布通知。
-
-## 特別感謝
-
-- [jayer95](https://github.com/jayer95) - Debugging and testing
-- [kkdai/LINE-Bot-ChatSummarizer](https://github.com/kkdai/LINE-Bot-ChatSummarizer) - Idea of summarize command
-- [All other contributors](https://github.com/memochou1993/gpt-ai-assistant/graphs/contributors)
-
-## 相關專案
-
-- [line-bot-node](https://github.com/memochou1993/line-bot-node)
-- [openai-cli-node](https://github.com/memochou1993/openai-cli-node)
-
-## 授權條款
-
-[MIT](LICENSE)
